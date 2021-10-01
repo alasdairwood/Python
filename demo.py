@@ -27,7 +27,7 @@ price = 20
 print (price > 10 and price < 30)
 
 
-temperature = 1
+temperature = 31
 
 if temperature > 30:
     print("It's a Hot Day")
